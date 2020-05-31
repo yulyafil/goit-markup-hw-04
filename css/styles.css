@@ -220,8 +220,7 @@ ul {
 .logos .pic + .pic {
   margin-left: 30px;
 }
-.client {
-}
+
 .pic:hover {
   fill: var(--accent-text-color);
   border: 1px solid var(--accent-text-color);
