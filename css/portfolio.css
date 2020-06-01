@@ -1,4 +1,8 @@
 /* Button */
+
+header {
+  border-bottom: 1px solid #ececec;
+}
 .menu {
   padding-top: 93px;
   padding-bottom: 50px;
